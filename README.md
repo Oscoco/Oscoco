@@ -13,7 +13,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscoco&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-  
+  <br>
 <!-- Programming languages I study   -->
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
