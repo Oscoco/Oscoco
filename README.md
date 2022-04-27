@@ -31,7 +31,7 @@
 #### Social media
   <div>
    <a href="https://api.whatsapp.com/send?phone=+503 6308 6438&text=Hola, Necesito más información para dar inicio a mi proyecto!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/oscar-ordo%C3%B1ez-311339224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="www.linkedin.com/in/oscar-gonzalez-311339224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:oscargonz150@gmail.com?Subject=Quiero%20saber%20mas%20de%20ti"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     target="_blank"></a>
       <a href="https://www.instagram.com/oscar4.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
